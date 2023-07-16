@@ -1,7 +1,4 @@
-<h1 align="center">
-<br>
-
- <h1 align="center">dev.finance</h1>
+<h1 align="center">dev.finance</h1>
 
 <p align="center">
     <b ></b>Uma site criado para fazer a gestão financeira</b>
